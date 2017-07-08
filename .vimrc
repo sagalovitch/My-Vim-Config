@@ -1,3 +1,4 @@
+"This Is Very Outdated now, I have made many new updates inorder to work with more plugins
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
